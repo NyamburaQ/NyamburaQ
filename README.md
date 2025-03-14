@@ -1,4 +1,4 @@
-## Hi there 👋; I'm Queenter Nyambura mugweru
+## Hi there 👋; I'm Queenter Nyambura Mugweru
 
 I am a **data enthusiast** with a background in **journalism and mass communication**. Currently, I am expanding my skills in **data analytics** through the **Google Data Analytics Course on Coursera**.  
 
